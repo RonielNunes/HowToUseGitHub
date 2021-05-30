@@ -61,7 +61,5 @@
 
 <b><i> git push -u origin main</i></b> * Envia o repositório local para o repositório remotos Nota: nas próximas vezes basta fazer: git push</br>
 
-<b><i> git status </i></b> * Verifica arquivos</br>
-
 
 </p>
