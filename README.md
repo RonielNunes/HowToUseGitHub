@@ -38,3 +38,10 @@
 <b><i>  git config --global user.name "SEU NOME"</i></b></br>
 <b><i>  git config --global user.email "SEU EMAIL UTILIZADO NO GIT"</i></b></br>
 </p>
+
+<p>
+5 - Fala os comandos a seguir </br>
+<b><i>  git init</i></b> //inicia um novo repositório local na pasta do seu projeto </br>
+<b><i>  git config --global user.name "SEU NOME"</i></b></br>
+<b><i>  git config --global user.email "SEU EMAIL UTILIZADO NO GIT"</i></b></br>
+</p>
