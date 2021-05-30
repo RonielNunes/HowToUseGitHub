@@ -35,13 +35,17 @@
 <p>
 4 - Importante : certifique-se de estar identificado no git do seu computador(nome e email) </br>
 <b><i>  git config --list</i></b> </br>
+
 <b><i>  git config --global user.name "SEU NOME"</i></b></br>
+
 <b><i>  git config --global user.email "SEU EMAIL UTILIZADO NO GIT"</i></b></br>
+
 </p>
 
 <p>
 5 - Fala os comandos a seguir </br>
-<b><i>  git init</i></b> * Inicia um novo repositório local na pasta do seu projeto </br></br>
+
+<b><i>  git init</i></b> * Inicia um novo repositório local na pasta do seu projeto </br>
 
 <b><i>  git remote add origin https://github.com/RonielNunes/HowToUseGitHub.git</i></b> * Associa seu repositório  local ao repositório remoto, com o apelido de "origin"</br>
 
