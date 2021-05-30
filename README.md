@@ -41,7 +41,23 @@
 
 <p>
 5 - Fala os comandos a seguir </br>
-<b><i>  git init</i></b> //inicia um novo repositório local na pasta do seu projeto </br>
-<b><i>  git config --global user.name "SEU NOME"</i></b></br>
-<b><i>  git config --global user.email "SEU EMAIL UTILIZADO NO GIT"</i></b></br>
+<b><i>  git init</i></b> * Inicia um novo repositório local na pasta do seu projeto </br></br>
+
+<b><i>  git remote add origin https://github.com/RonielNunes/HowToUseGitHub.git</i></b> * Associa seu repositório  local ao repositório remoto, com o apelido de "origin"</br>
+
+<b><i> git branch -m master main </i></b> * Muda em qual branch o repositório se encontra</br>
+
+<b><i> git pull origin main </i></b> * Atualiza seu repositório local em relação ao repositório remoto</br>
+
+<b><i> git status </i></b> * Verifica arquivos</br>
+
+<b><i> git add . </i></b> * Adiciona todos arquivos ao stage</br>
+
+<b><i> git commit -m "Projeto criado" </i></b> * Salva uma nova versão do projeto</br>
+
+<b><i> git push -u origin main</i></b> * Envia o repositório local para o repositório remotos Nota: nas próximas vezes basta fazer: git push</br>
+
+<b><i> git status </i></b> * Verifica arquivos</br>
+
+
 </p>
