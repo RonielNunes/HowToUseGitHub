@@ -34,7 +34,7 @@
 
 <p>
 4 - Importante : certifique-se de estar identificado no git do seu computador(nome e email) </br>
-<b><i>git config --list</i></b> </br>
-<b><i>git config --global user.name "SEU NOME"</i></b>
-<b><i>git config --global user.email "SEU EMAIL UTILIZADO NO GIT"</i></b>
+<b><i>  git config --list</i></b> </br>
+<b><i>  git config --global user.name "SEU NOME"</i></b></br>
+<b><i>  git config --global user.email "SEU EMAIL UTILIZADO NO GIT"</i></b></br>
 </p>
