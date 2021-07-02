@@ -45,3 +45,10 @@
  *  `git commit -m "Projeto criado" ` *Salva uma nova versão do projeto*
  *  `git push -u origin main` *Envia o repositório local para o repositório remotos Nota: nas próximas vezes basta fazer: git push*
 
+
+## Links 
+
+https://image.slidesharecdn.com/github-git-cheat-sheet-140327004248-phpapp02/95/github-gitcheatsheet-1-638.jpg?cb=1395881032
+https://intellipaat.com/mediaFiles/2019/03/Git-Cheat-Sheet.jpg
+https://www.git-tower.com/learn/cheat-sheets/git-pt/git-cheat-sheet-large01-pt.png
+https://i.redd.it/8341g68g1v7y.png
