@@ -12,7 +12,7 @@
    🚀Descrição
 </h1>
 <p>
- Este repositório serve para retirar dúvidas e dar uma base inicial aos novos usuários do githu
+ Este repositório serve para retirar dúvidas e dar uma base inicial aos novos usuários do github em seu primeiro envio de versão de código. 
 </p>
  
 <h1>
