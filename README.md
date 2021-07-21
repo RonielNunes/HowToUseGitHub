@@ -49,16 +49,20 @@
 ## Links 
 
 ![img](https://image.slidesharecdn.com/github-git-cheat-sheet-140327004248-phpapp02/95/github-gitcheatsheet-1-638.jpg?cb=1395881032)
-Link da imagem: [link](https://image.slidesharecdn.com/github-git-cheat-sheet-140327004248-phpapp02/95/github-gitcheatsheet-1-638.jpg?cb=1395881032)
+
+- Link da imagem: [link](https://image.slidesharecdn.com/github-git-cheat-sheet-140327004248-phpapp02/95/github-gitcheatsheet-1-638.jpg?cb=1395881032)
 
 
 ![img](https://intellipaat.com/mediaFiles/2019/03/Git-Cheat-Sheet.jpg)
-Link da imagem: [link](https://intellipaat.com/mediaFiles/2019/03/Git-Cheat-Sheet.jpg)
+
+- Link da imagem: [link](https://intellipaat.com/mediaFiles/2019/03/Git-Cheat-Sheet.jpg)
 
 ![img](https://www.git-tower.com/learn/cheat-sheets/git-pt/git-cheat-sheet-large01-pt.png)
-Link da imagem: [link](https://www.git-tower.com/learn/cheat-sheets/git-pt/git-cheat-sheet-large01-pt.png)
+
+- Link da imagem: [link](https://www.git-tower.com/learn/cheat-sheets/git-pt/git-cheat-sheet-large01-pt.png)
 
 ![img](https://i.redd.it/8341g68g1v7y.png)
-Link da imagem: [link](https://i.redd.it/8341g68g1v7y.png)
+
+- Link da imagem: [link](https://i.redd.it/8341g68g1v7y.png)
 
 
